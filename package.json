@@ -1,6 +1,6 @@
 {
   "name": "@segment/clear-globals",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Reset any overridden native methods back to normal (for testing)",
   "keywords": [
     "testing",
